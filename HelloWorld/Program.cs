@@ -140,7 +140,30 @@ namespace HelloWorld
             oddnumberedString = oddnumberedString.Remove(oddnumberedString.Length - 1, 1);
             Console.WriteLine(oddnumberedString);
 
+            // searching 
+            //1.
+            String X = "abced";
+            char Y = 'b';
+            //2.
+            int find(char character, string within)
+            {
+                return within.IndexOf(character);
+            }
+            //3.
+            bool isThis(char character, string within)
+            {
+                return find(character, within) != -1;
+            }
+            //4. 
+            string fakeFilePath = @"c:\\user\project\helloWorldr.txt";
 
+
+            //Splitting 
+
+            string stringWithManySpaces = "hello   how   are you?";
+            string[] seperatedBySpaces = stringWithManySpaces.Split(" ");
+
+            //formatting 
 
 
         }

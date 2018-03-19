@@ -2279,11 +2279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/karenfuentes/Projects/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/Users/karenfuentes/Projects/HelloWorld/HelloCSharpWorld/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/Users/karenfuentes/Projects/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/Users/karenfuentes/Projects/HelloWorld/HelloCSharpWorld/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/Users/karenfuentes/.nuget/packages/",
-      "outputPath": "/Users/karenfuentes/Projects/HelloWorld/HelloWorld/obj",
+      "outputPath": "/Users/karenfuentes/Projects/HelloWorld/HelloCSharpWorld/HelloWorld/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
